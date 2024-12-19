@@ -4,12 +4,10 @@ from time import sleep
 import os
 import logging
 import uuid
-import re
 import sys
 import tkinter as tk
 from tkinter import simpledialog, messagebox
 from tkinter import *
-import json
 import socket
 from datetime import datetime, timedelta
 from logging.handlers import RotatingFileHandler
