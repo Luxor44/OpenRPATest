@@ -1,1 +1,9 @@
-
+pip install MasterClass
+pip install subprocess
+pip install time
+pip install logging
+pip install uuid
+pip install re
+pip install datetime 
+pip install logging.handlers
+pip install selenium
